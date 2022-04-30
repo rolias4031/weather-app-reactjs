@@ -1,0 +1,64 @@
+.cat-item {
+  background-color: lime;
+}
+
+.city-search-bar {
+  display: inline;
+}
+
+.weather-category-title {
+  background-color: rgb(240,240,240);
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.location-title {
+  background-color: rgb(240,240,240);
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.item-title {
+  float: left;
+  font-weight: bold;
+}
+
+.item-data {
+  float: right;
+  padding: 0 5px 0 5px;
+  border-radius: 5px;
+}
+
+.temp-hot {
+  background-color: red;
+}
+
+.temp-warm {
+  background-color: orange;
+}
+
+.temp-cool {
+  background-color: lime;
+}
+
+.temp-cold {
+  background-color: purple;
+}
+
+.button-city-add {
+  border: solid 2px black;
+}
+
+.city-input-label {
+  float: left;
+  color: rgb(100,100,100);
+}
+
+.units-style {
+  background-color: rgb(240,240,240);
+}
+
+.data-items-style {
+  background-color: rgb( 240,240,240)
+}
